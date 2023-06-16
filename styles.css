@@ -1,0 +1,137 @@
+body {
+    font-family: 'Lilita One', cursive;
+    background-color: white;
+}
+  
+
+h1 {
+    position: relative;
+    left: 30px;
+    color: black;
+}
+
+.ph {
+    position: relative;
+    width: 500px;
+    height: 400px;
+}
+
+.consejos {
+    position: relative;
+    left: 20px;
+    font-size: 50px;
+}
+
+.limpiador {
+    position: relative;
+    width: 500px;
+}
+
+h2 {
+    position: relative;
+    left: 20px;
+    font-size: 30px;
+}
+
+.limpiadorr {
+    font-size: 45px;
+}
+
+.crema {
+    position: relative;
+    width: 500px;
+}
+
+.cremaa {
+    font-size: 45px;
+}
+
+.protector {
+position: relative;
+width: 500px;
+}
+
+.protectorr {
+    font-size: 45px;
+}
+
+.ex {
+    position: relative;
+    width: 500px;
+}
+
+.exx {
+    font-size: 45px;
+}
+
+.al {
+    position: relative;
+    width: 500px;
+}
+
+.all {
+    font-size: 45px;
+}
+
+.ag {
+    position: relative;
+    width: 500px;
+}
+.agg {
+    font-size: 45px;
+}
+
+.des {
+    position: relative;
+    width: 500px;
+}
+
+.dess {
+    font-size: 45px;
+}
+
+.be {
+    position: relative;
+    width: 500px;
+}
+
+.bee {
+    font-size: 45px;
+}
+
+.ev {
+    position: relative;
+    width: 500px;
+}
+
+.evv {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+.resolución {
+    width: 99%;
+    text-align: center;
+}
+
+/** Movil **/
+@media (max-width: 767px){
+    .desktop {display: none;}
+
+    .tablet {display: none;}
+}
+/** Tablet **/
+@media (min-width: 768px) and (max-width: 990px){
+    .desktop {display: none;}
+
+    .movil {display: none;}
+}
+/** Escritorio **/
+@media (min-width: 991px){
+    .tablet {display: none;}
+
+    .movil {display: none;}    
+}
